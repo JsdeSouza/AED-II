@@ -183,6 +183,4 @@ int main() {
                 printf("Opcao invalida. Escolha uma opcao valida.\n");
         }
     }
-
-    return 0;
 }
